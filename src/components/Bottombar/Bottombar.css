@@ -6,7 +6,7 @@
     background: #000;
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: flex-end;
     grid-template: 30px;
     padding-right: 50px;
 }
